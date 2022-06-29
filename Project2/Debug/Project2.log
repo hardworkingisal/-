@@ -1,0 +1,3 @@
+﻿  test.c
+D:\试手\Project2\test.c(22,1): warning C4305: “初始化”: 从“unsigned __int64”到“long”截断
+  Project2.vcxproj -> D:\试手\Project2\Debug\Project2.exe
